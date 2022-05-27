@@ -1,0 +1,9 @@
+:root
+{
+    --hue: 0;
+    --first-color: #1ab73c;
+    --first-color-alt: #27d510;
+}
+
+/* hsl(var(--hue), 88%, 61%)
+/* #70f570
